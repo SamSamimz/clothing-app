@@ -1,3 +1,4 @@
+##step :
 1. composer install
 2. setup .env 
 3. php artisan migrate
